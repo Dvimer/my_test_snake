@@ -8,6 +8,7 @@ import java.awt.event.WindowEvent;
 
 public class Main extends Frame {
     private int countClick=0;
+    private int;
     private Button myButton;
     private Label myText;
 
